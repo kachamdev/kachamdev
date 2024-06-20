@@ -20,7 +20,7 @@
 <br/>  
 
 
-## inhas Skills:
+## Minhas Skills:
 <table><tr><td valign="top" width="33%">
 
 
