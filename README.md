@@ -1,6 +1,4 @@
-
-
-### title  
+-----  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=2C9EF7&background=FFFFFF00&vCenter=true&random=true&width=435&lines=Fala+brother%2C+aqui+%C3%A9+o+Kacham!)](https://git.io/typing-svg)  
   
 
@@ -22,12 +20,12 @@
 <br/>  
 
 
-## My Skill Set  
+## inhas Skills:
 <table><tr><td valign="top" width="33%">
 
 
 
-### Backend  
+### Backend:  
 <div align="center">  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -43,7 +41,7 @@
 
 
 
-### Devops  
+### Devops:  
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -55,7 +53,7 @@
 
 
 
-### Frontend  
+### Frontend:  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
@@ -67,34 +65,12 @@
 <br/>  
 
 
-## Connect with me  
+## Fala comigo:   
 <div align="center">
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCalAceJ4BUiLy8HYLfmVNCw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
